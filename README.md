@@ -17,6 +17,8 @@ Describe the full workflow of calling this function, what is happening in the Va
 Let's imagine that there is some protocol (P). This protocol P gives a certain yield (Y) for liquidity provision, and also has its own liquidity mining (LM) functions, as well as additional reward tokens (R) that are accounted to balances each block.
 
 How would you design a strategy based on the Yearn Vaults template in this case?
+
+
 https://github.com/yearn/yearn-vaults/blob/master/contracts/BaseStrategy.sol#L621
 
    
